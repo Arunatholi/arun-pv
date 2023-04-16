@@ -1,0 +1,28 @@
+.navbar bg-body-tertiary{
+    background-color: blue;
+}
+.d-flex{
+    background-color: rgb(0, 255, 68);
+}
+.container-fluid{
+    background-color: aqua;
+}
+.navbar-brand{
+    background-color: green;
+}
+#carouselExampleCaptions .carousel-inner .carousel-item{
+    height: 450px;
+}
+@media screen and (width: 450){
+    #carouselExampleCaptions .carousel-inner .carousel-item {
+        width: 220px;
+    }
+    #carouselExampleCaptions .carousel-inner .carousel-item img{
+        height: 100%;
+    }
+}
+.bggray{
+    background-color: aqua;
+}
+    
+
